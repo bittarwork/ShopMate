@@ -1,0 +1,14 @@
+.admin {
+  display: flex;
+}
+
+.admin-content {
+  flex: 1;
+  padding: 20px; /* Adjust padding as needed */
+}
+
+@media (max-width: 768px) {
+  .admin {
+    flex-direction: column;
+  }
+}

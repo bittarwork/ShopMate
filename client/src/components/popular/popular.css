@@ -1,0 +1,41 @@
+@media(max-width:1280px){
+  .popular h1{
+    @apply text-[40px]
+  }
+  .popular hr{
+    @apply w-[160px] h-[4px]
+  }
+  .popular-item{
+    @apply gap-[25px] mt-[30px]
+  }
+}
+
+@media(max-width:1024px){
+  .popular h1{
+    @apply text-[30px]
+  }
+  .popular hr{
+    @apply w-[120px] h-[3px]
+  }
+  .popular-item{
+    @apply gap-[15px] mt-[20px]
+  }
+}
+
+@media(max-width:800px){
+  .popular h1{
+    @apply text-[20px]
+  }
+  .popular hr{
+    @apply w-[100px]
+  }
+  .popular-item{
+    @apply gap-[8px]
+  }
+}
+
+@media(max-width:500px){
+  .popular-item{
+    @apply grid grid-cols-2 gap-[20px]
+  }
+}
