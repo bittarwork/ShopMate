@@ -1,0 +1,2 @@
+# ShopMate
+ ShopMate is a modern e-commerce platform designed to provide a seamless shopping experience for users. The platform features an intuitive interface, allowing customers to browse products, manage their cart, and complete purchases effortlessly. With responsive design and advanced functionality, ShopMate ensures a smooth and engaging shopping experience across various devices. Whether you're looking for the latest trends or everyday essentials, ShopMate offers a comprehensive solution for online shopping.
